@@ -1,0 +1,13 @@
+name: rc17320lol
+title: rc17320lol
+username:
+account: rc17320lol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3805182
+bundleId: 4508981
+url: https://rc17320lol.shinyapps.io/rc17320lol/
+when: 1619172046.01271
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: desktop.ini|LOLEsportsStats.dcf|Shiny.dcf|data/2020_LoL_esports_match_data.csv|data/result.csv|data/wanplus_players.csv|data/wanplus_team.csv
